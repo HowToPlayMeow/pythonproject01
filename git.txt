@@ -1,8 +1,8 @@
-- git config --global user.email "gamebossmc682@gmail.com"
-- git config --global user.name "HowToPlayMeow"
-- git init
-- git remote add origin https://github.com/HowToPlayMeow/pytest.git
+git config --global user.email "gamebossmc682@gmail.com"
+git config --global user.name "HowToPlayMeow"
+git init
+git remote add origin https://github.com/HowToPlayMeow/pytest.git
 
-- git add .
-- git commit -m "code v.1 : ??????"
-- git push -u origin master
+git add .
+git commit -m "code v.1 : Meow"
+git push -u origin master
